@@ -1,4 +1,5 @@
-const apiKey = 'iAOEm6wfWUpnw1i7Hwqe-FUnEs9uUpxKx6-cR_bxu_k';
+import apiKey from './api_key';
+
 const count = 3;
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 // const apiUrl = `https://picsum.photos/v2/list?limit=3`;
