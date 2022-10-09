@@ -1,4 +1,4 @@
-const apiKey = 'iAOEm6wfWUpnw1i7Hwqe-FUnEs9uUpxKx6-cR_bxu_k';
+const apiKey = 'EiM-x9g_F7ukuzJm1Bi5ekO6OjBcB-dc5cjD1TwYCik';
 const count = 3;
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 // const apiUrl = `https://picsum.photos/v2/list?limit=3`;
